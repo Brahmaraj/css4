@@ -97,9 +97,9 @@ body{
     margin-top: 1em;
     display: inline-grid;
     width: 100%;
-    height: 22em;
+    height: 19.2em;
     grid-template-columns: repeat(3, 6fr) 1fr;
-    border: 0.1em solid darkgray;
+    border: 0.15em solid darkgray;
     color: white;
     row-gap: 1em;
     column-gap: 1em;
@@ -130,6 +130,7 @@ body{
 .gitem7{
     background-color: rgb(110, 194, 228);
     grid-column: 1 / 4 span;
+    height: 0.97em;
 }
 .gitems{
     font-weight: 900;
